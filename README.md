@@ -8,7 +8,7 @@
  
  🔭 I'm currently working in **GSSoC' 24 as open source contributor**
  
- 🌱 I'm currently learning **Web development**
+ 🌱 I'm currently learning **Web development and dsa**
 
 💬 Ask me about **Web development, UI-UX design and Data structure and Algorithms**
  </div>
