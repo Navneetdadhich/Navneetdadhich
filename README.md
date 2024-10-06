@@ -6,11 +6,11 @@
 <br/>
 <div align="center">
  
- 🔭 I'm currently working in **GSSoC' 24 as open source contributor**
+ 🔭 I'm currently working in **GSSoC' 24 as Open Source Contributor**
  
- 🌱 I'm currently learning **Web development and dsa**
+ 🌱 I'm currently learning **Web Development and Data Structures and Algorithm**
 
-💬 Ask me about **Web development, UI-UX design and Data structure and Algorithms**
+💬 Ask me about **Web Development, UI-UX Design and Data structure and Algorithms**
  </div>
  
 <div align="center"> 
