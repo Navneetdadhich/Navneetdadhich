@@ -31,7 +31,7 @@
   </a>
 
   
-  <img width="100" height="100" src="[https://picsum.photos/100/100](https://drive.google.com/file/d/1JB_puQ6YQTrDHFU_bSwF-df90fsDdPM1/view?usp=drive_link)">
+  <img width="100" height="100" src="https://drive.google.com/file/d/1JB_puQ6YQTrDHFU_bSwF-df90fsDdPM1/view?usp=drive_link">
 
 </div>
  <hr/>
