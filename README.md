@@ -30,8 +30,7 @@
      <img src="https://img.shields.io/badge/X-333333?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 
-  
-https://github.com/user-attachments/assets/1acff0f2-0534-4768-81b2-6195bc99552c
+  ![Postman - Postman API Fundamentals Student Expert - 2024-11-03](https://github.com/user-attachments/assets/54e3857f-410e-40e3-9aa1-c7f60fcf6494)
 
 
 </div>
