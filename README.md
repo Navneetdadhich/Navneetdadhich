@@ -29,6 +29,11 @@
   <a href="https://x.com/Nvntdad" target="_blank">
      <img src="https://img.shields.io/badge/X-333333?style=for-the-badge&logo=x&logoColor=white" />
   </a>
+
+  <a href="https://api.badgr.io/public/badges/G0U1YVeOSdGAiytb9Yw6_w" target="_blank">
+     <img src="https://api.badgr.io/public/assertions/dAvD0bBPTmK1yk7aX2qYYQ/image" />
+  </a>
+  
 </div>
  <hr/>
  
