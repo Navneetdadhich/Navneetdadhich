@@ -30,10 +30,9 @@
      <img src="https://img.shields.io/badge/X-333333?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 
-  <a href="/" target="_blank">
-     <img src="[https://api.badgr.io/public/assertions/dAvD0bBPTmK1yk7aX2qYYQ/image](https://drive.google.com/file/d/1JB_puQ6YQTrDHFU_bSwF-df90fsDdPM1/view?usp=sharing)" />
-  </a>
   
+  ![Postman - Postman API Fundamentals Student Expert - 2024-11-03](https://github.com/user-attachments/assets/9c7eb076-f2d9-4d64-ac34-6259f9d7912b)
+
 </div>
  <hr/>
  
