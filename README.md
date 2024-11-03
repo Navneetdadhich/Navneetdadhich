@@ -31,7 +31,7 @@
   </a>
 
   <a href="/" target="_blank">
-     <img src="https://api.badgr.io/public/assertions/dAvD0bBPTmK1yk7aX2qYYQ/image" />
+     <img src="[https://api.badgr.io/public/assertions/dAvD0bBPTmK1yk7aX2qYYQ/image](https://drive.google.com/file/d/1JB_puQ6YQTrDHFU_bSwF-df90fsDdPM1/view?usp=sharing)" />
   </a>
   
 </div>
