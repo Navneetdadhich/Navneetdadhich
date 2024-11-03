@@ -31,7 +31,7 @@
   </a>
 
   
-  ![Postman - Postman API Fundamentals Student Expert - 2024-11-03](https://github.com/user-attachments/assets/9c7eb076-f2d9-4d64-ac34-6259f9d7912b)
+  <img width="100" height="100" src="[https://picsum.photos/100/100](https://drive.google.com/file/d/1JB_puQ6YQTrDHFU_bSwF-df90fsDdPM1/view?usp=drive_link)">
 
 </div>
  <hr/>
