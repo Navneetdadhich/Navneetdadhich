@@ -30,10 +30,14 @@
      <img src="https://img.shields.io/badge/X-333333?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" /> 
-
-
 </div>
+
+<div align="center">
+  <h2 align="center">⚡ Badges ⚡</h2>
+ <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" /> 
+</div>
+
+
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
