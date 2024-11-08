@@ -30,7 +30,7 @@
      <img src="https://img.shields.io/badge/X-333333?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 
-  ![Postman - Postman API Fundamentals Student Expert - 2024-11-03](https://github.com/user-attachments/assets/54e3857f-410e-40e3-9aa1-c7f60fcf6494)
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" /> 
 
 
 </div>
