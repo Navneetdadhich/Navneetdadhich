@@ -36,7 +36,7 @@
 
 
 <div align="center">
-  <h2 align="center">⚡ Badges ⚡</h2>
+  <h2 align="center">⚡ GSSoC-Postman Badges ⚡</h2>
  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" /> 
 </div>
 
