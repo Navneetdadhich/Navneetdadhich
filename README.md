@@ -32,6 +32,9 @@
 
 </div>
 
+[![An image of @nvntdad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nvntdad)](https://holopin.io/@nvntdad)
+
+
 <div align="center">
   <h2 align="center">⚡ Badges ⚡</h2>
  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" /> 
