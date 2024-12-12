@@ -28,12 +28,14 @@
   </a>
 
 </div>
-
+<div align="center">
+  <h2 align="center">⚡HacktoberFest⚡
 [![An image of @nvntdad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nvntdad)](https://holopin.io/@nvntdad)
+</div>
 
 
 <div align="center">
-  <h2 align="center">⚡ GSSoC-Postman Badges ⚡</h2>
+  <h2 align="center">⚡Postman Badges⚡</h2>
  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" /> 
 </div>
 
@@ -55,25 +57,3 @@
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navneetdadhich&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 <hr/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=navneetdadhich&theme=merko" alt="Navneet Dadhich's github activity graph"/>
-
-<<div align="center">
-  <!-- Wave Animation -->
-    
-![Wave Animation - Dark Mode](resources/wave_animation_dark.svg#gh-dark-mode-only)
-  ![Wave Animation - Light Mode](resources/wave_animation_light.svg#gh-light-mode-only)
-
-  <!-- Themed Line -->
-  ![Themed Line - Dark Mode](resources/themed_line_dark.svg#gh-dark-mode-only)
-  ![Themed Line - Light Mode](resources/themed_line_light.svg#gh-light-mode-only)
-
-</div>
-
-<div align="center">
-  <!-- Profile Views -->
-    <h4 align="center">Profile Views</h4>
-    <a href="">
-        <img style="width:30%;" src="https://profile-counter.glitch.me/{Navneetdadhich}/count.svg" alt="Navneetdadhich :: Visitor's Count" alt="Profile Count">
-    </a>
-</div>
