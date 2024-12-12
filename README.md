@@ -31,7 +31,10 @@
 <div align="center">
   <h2 align="center">⚡HacktoberFest⚡</h2>
 </div>
-[![An image of @nvntdad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nvntdad)](https://holopin.io/@nvntdad)
+
+
+![An image of @nvntdad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nvntdad)
+
 
 
 <div align="center">
