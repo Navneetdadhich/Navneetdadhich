@@ -58,7 +58,7 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=navneetdadhich&theme=merko" alt="Navneet Dadhich's github activity graph"/>
 
-<div align="center">
+<<div align="center">
   <!-- Wave Animation -->
     
 ![Wave Animation - Dark Mode](resources/wave_animation_dark.svg#gh-dark-mode-only)
