@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Nvntdad.Nvntdad" />
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Navneet%20Dadhich!;+ Web developer;+ Software developer;+ UI designer; +Graphic designer; +Problem Solving;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Navneet%20Dadhich!;+Web%20developer;+Software%20developer;+UI%20designer;+Graphic%20designer;+Problem%20Solving;" />
 </h1>
 <h3 align="center">A passionate Front-end web developer.</h3>
 <br/>
