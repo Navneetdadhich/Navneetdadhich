@@ -1,4 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Nvntdad.Nvntdad" />
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Navneet%20Dadhich!;+Web%20developer;+Software%20developer;+UI%20designer;+Graphic%20designer;+Problem%20Solving;" />
 </h1>
@@ -58,3 +57,23 @@
 <hr/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=navneetdadhich&theme=merko" alt="Navneet Dadhich's github activity graph"/>
+
+<div align="center">
+  <!-- Wave Animation -->
+    
+![Wave Animation - Dark Mode](resources/wave_animation_dark.svg#gh-dark-mode-only)
+  ![Wave Animation - Light Mode](resources/wave_animation_light.svg#gh-light-mode-only)
+
+  <!-- Themed Line -->
+  ![Themed Line - Dark Mode](resources/themed_line_dark.svg#gh-dark-mode-only)
+  ![Themed Line - Light Mode](resources/themed_line_light.svg#gh-light-mode-only)
+
+</div>
+
+<div align="center">
+  <!-- Profile Views -->
+    <h4 align="center">Profile Views</h4>
+    <a href="">
+        <img style="width:30%;" src="https://profile-counter.glitch.me/{Navneetdadhich}/count.svg" alt="Navneetdadhich :: Visitor's Count" alt="Profile Count">
+    </a>
+</div>
