@@ -62,6 +62,9 @@
 
 ![An image of @nvntdad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nvntdad)
 <hr/>
+
+<img src="https://raw.githubusercontent.com/Navneetdadhich/Navneetdadhich/output/snake.svg" width = 1500 alt="Snake animation" />
+
 <div align="center">
   <!-- Profile Views -->
     <h4 align="center">Profile Views</h4>
