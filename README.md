@@ -65,6 +65,9 @@
 
 <!-- <img src="https://raw.githubusercontent.com/Navneetdadhich/Navneetdadhich/output/snake.svg" width = 1500 alt="Snake animation" /> -->
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <div align="center">
   <!-- Profile Views -->
     <h4 align="center">Profile Views</h4>
