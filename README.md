@@ -18,7 +18,7 @@
 <p></p>
 - ☄️ Recently i have made a web-app called <strong><a  href="https://buildmee.netlify.app/">BuildMe</a></strong>
 <p></p>
-  - ☄️Proficient in <strong>Graphic Designing</strong>
+- ☄️ Proficient in <strong>Graphic Designing</strong>
 <p></p>
 <br>
 </div>
