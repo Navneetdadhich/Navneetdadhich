@@ -11,13 +11,14 @@
 <h1>📈 How are things shaping up?</h1>
 <div align="left" >
 <br>
-- ☄️ I'm currently learning <strong>Web Development and Data Structures and Algorithm</strong>.
-<p></p>
-- ☄️ started <strong>Web designing </strong> & <strong>Fullstack development.</strong>
+<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="300" align="right">
+- ☄️ I'm currently learning <strong>Fullstack Web Development and Data Structures and Algorithm</strong>.
 <p></p>
 - ☄️ Trying to maintain consistency on <strong>leetcode & hackerrank.</strong>
 <p></p>
 - ☄️ Recently i have made a web-app called <strong><a  href="https://buildmee.netlify.app/">BuildMe</a></strong>
+<p></p>
+  - ☄️Proficient in <strong>Graphic Designing</strong>
 <p></p>
 <br>
 </div>
