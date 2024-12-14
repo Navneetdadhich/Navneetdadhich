@@ -58,7 +58,7 @@
 </div>
 
 <div align="center">
-  <h1 align="left">⚡HacktoberFest⚡</h1>
+  <h1 align="left">⚡HacktoberFest Badges⚡</h1>
 </div>
 
 ![An image of @nvntdad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nvntdad)
@@ -69,6 +69,8 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+<h1 align="left">⚡Thank You For Your Reach⚡</h1>
+
 <div align="center">
   <!-- Profile Views -->
     <h4 align="center">Profile Views</h4>
@@ -76,3 +78,5 @@
         <img style="width:30%;" src="https://profile-counter.glitch.me/{Navneetdadhich}/count.svg" alt="Navneetdadhich :: Visitor's Count" alt="Profile Count">
     </a>
 </div>
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="1020">
