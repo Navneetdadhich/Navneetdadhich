@@ -46,7 +46,7 @@
 <br>
 <div align=center>
   
-  ![Navneetdadhich's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Navneetdadhich&theme=github_dark&show_icons=true&hide_border=true&layout=compact)
+ <!-- ![Navneetdadhich's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Navneetdadhich&theme=github_dark&show_icons=true&hide_border=true&layout=compact)-->
   [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Navneetdadhich?cardType=github&theme=github-dark&preferLogin=false&Background=0d1117)](https://git.io/awesome-stats-card)
   ![Navneetdadhich's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Navneetdadhich&theme=github_dark&hide_border=true)
   <br/>
