@@ -13,7 +13,7 @@
 <br>
 - ☄️ I'm currently learning <strong>Web Development and Data Structures and Algorithm</strong>.
 <p></p>
-- ☄️ Learning <strong>Web designing </strong> & <strong>Fullstack development.</strong>
+- ☄️ started <strong>Web designing </strong> & <strong>Fullstack development.</strong>
 <p></p>
 - ☄️ Trying to maintain consistency on <strong>leetcode & hackerrank.</strong>
 <p></p>
