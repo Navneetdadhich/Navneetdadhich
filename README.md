@@ -16,7 +16,9 @@
 <p></p>
 - ☄️ Trying to maintain consistency on <strong>leetcode & hackerrank.</strong>
 <p></p>
-- ☄️ Recently i have made a web-app called <strong><a  href="https://buildmee.netlify.app/">BuildMe</a></strong>
+- ☄️ Recently i have made an event website <strong><a  href="https://dadhichevents.netlify.app/">Dadhich Events</a></strong>
+<p></p>
+- ☄️ Currently building <strong><a  href="https://buildmee.netlify.app/">BuildMe</a></strong>
 <p></p>
 - ☄️ Proficient in <strong>Graphic Designing</strong>
 <p></p>
