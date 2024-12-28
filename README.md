@@ -14,7 +14,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="300" align="right">
 - ☄️ I'm currently learning <strong>Fullstack Web Development and Data Structures and Algorithm</strong>.
 <p></p>
-- ☄️ Trying to maintain consistency on <strong>leetcode & hackerrank.</strong>
+- ☄️ Trying to maintain consistency on <strong> <a href="https://leetcode.com/u/navneet_dadhich/">leetcode </a> </a.> & <a href="https://www.hackerrank.com/profile/nvntdadhich">hackerrank</a></strong>
 <p></p>
 - ☄️ Recently i have made an event website <strong><a  href="https://dadhichevents.netlify.app/">Dadhich Events</a></strong>
 <p></p>
