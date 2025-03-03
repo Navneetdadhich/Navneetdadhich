@@ -16,7 +16,8 @@
 <p></p>
 - ☄️ Trying to maintain consistency on <strong> <a href="https://leetcode.com/u/navneet_dadhich/">leetcode </a></strong>
 <p></p>
-- ☄️ Currently building <strong><a  href="https://buildmee.netlify.app/">BuildMe</a></strong>
+- ☄️ Currently building <strong>GitStash</strong>
+      (Soon)
 <p></p>
 - ☄️ Proficient in <strong>Graphic Designing</strong>
 <p></p>
