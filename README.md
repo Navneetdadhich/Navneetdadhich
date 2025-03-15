@@ -19,7 +19,7 @@
 - ☄️ Currently building <strong>GitStash</strong>
       (Soon)
 <p></p>
-- ☄️ Proficient in </a> <strong> <a href="https://www.behance.net/navneetdadhich"> Graphic Designing </a> & <strong> <a href="https://www.instagram.com/rango.ae/?__pwa=1"> Video Editing </a> </strong>
+- ☄️ Proficient in </a> <strong> <a href="https://github.com/Navneetdadhich/images/blob/main/Navneet.pdf"> Graphic Designing </a> & <strong> <a href="https://www.instagram.com/rango.ae/?__pwa=1"> Video Editing </a> </strong>
 <p></p>
 <br>
 </div>
