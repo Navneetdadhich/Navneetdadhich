@@ -16,10 +16,10 @@
 <p></p>
 - ☄️ I'm currently learning <strong>Fullstack Web Development and Data Structures and Algorithm</strong>.
 <p></p>
-- ☄️ Trying to maintain consistency on <strong> <a href="https://leetcode.com/u/navneet_dadhich/">leetcode </a></strong>
+- ☄️ Trying to maintain consistency on <strong> <a href="https://leetcode.com/u/navneet_dadhich/">Leetcode </a></strong>
 <p></p>
-- ☄️ Currently building <strong>GitStash</strong>
-      (Soon)
+- ☄️ Latest Project <strong> <a href="https://gitstash.onrender.com">GitStash </a> </strong>
+     
 <p></p>
 - ☄️ Proficient in </a> <strong> <a href="https://github.com/Navneetdadhich/images/blob/main/Navneet.pdf"> Graphic Designing </a> & <strong> <a href="https://www.instagram.com/rango.ae/?__pwa=1"> Video Editing </a> </strong>
 <p></p>
