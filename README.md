@@ -18,10 +18,7 @@
 <p></p>
 - ☄️ Trying to maintain consistency on <strong> <a href="https://leetcode.com/u/navneet_dadhich/">Leetcode </a></strong>
 <p></p>
-- ☄️ Latest Project <strong> <a href="https://gitstash.onrender.com">GitStash </a> </strong>
-     
-<p></p>
-- ☄️ Proficient in </a> <strong> <a href="https://github.com/Navneetdadhich/images/blob/main/Navneet.pdf"> Graphic Designing </a> & <strong> <a href="https://www.instagram.com/rango.ae/?__pwa=1"> Video Editing </a> </strong>
+- ☄️ Latest Projects <strong> <a href="https://gitstash.onrender.com">GitStash </a> <a href="https://royaltrails.netlify.app/"> RoyalTrails </a> </strong>
 <p></p>
 <br>
 </div>
