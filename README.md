@@ -16,7 +16,7 @@
 <p></p>
 - ☄️ I'm currently learning <strong>Fullstack Web Development and Data Structures and Algorithm</strong>.
 <p></p>
-- ☄️ Trying to maintain consistency on <strong> <a href="https://leetcode.com/u/navneet_dadhich/">Leetcode </a></strong>
+- ☄️ was active on <strong> <a href="https://leetcode.com/u/navneet_dadhich/">Leetcode </a></strong>
 <p></p>
 - ☄️ Latest Projects <strong> <a href="https://gitstash.onrender.com">GitStash </a> & <a href="https://royaltrails.netlify.app/"> RoyalTrails </a> </strong>
 <p></p>
