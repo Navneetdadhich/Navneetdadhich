@@ -15,11 +15,6 @@
 - ☄️ Skills over anything !</strong>
 <p></p>
 - ☄️ I'm currently learning <strong>Fullstack Web Development </strong>.
-<p></p>
-- ☄️ was active on <strong> <a href="https://leetcode.com/u/navneet_dadhich/">Leetcode </a></strong>
-<p></p>
-- ☄️ Latest Projects <strong> <a href="https://gitstash.onrender.com">GitStash </a> & <a href="https://royaltrails.netlify.app/"> RoyalTrails </a> </strong>
-<p></p>
 <br>
 </div>
 <div align="center">
